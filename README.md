@@ -12,7 +12,7 @@ Aqui estão algumas tecnologias utilizadas no projeto
 * CSS
 * Javascript
 * React
-* Bootsrap
+* Bootstrap
 
 
 Projeto foi feito para consumir uma API.
